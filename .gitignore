@@ -8,3 +8,6 @@ pycscope.*
 build
 dist
 docs/_build
+
+.idea/
+*.iml
